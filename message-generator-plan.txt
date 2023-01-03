@@ -1,0 +1,10 @@
+
+Make a random message generator that puts some gossip about two celebrities.
+
+To do : 
+Make a variable with an array of 8 celebs. 
+Make a second variable with a arrayy of 8 actions.
+Make a third variable with a array of 8 different celebs.
+Make a function that creates a random number as long as the list of celebrities and actions, assign these to new string variables e.g. let celeb1 = ...
+Make a function that adds all of these strings together.
+return sentence.
